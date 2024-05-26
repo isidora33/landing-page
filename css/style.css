@@ -138,3 +138,9 @@ p {
 .border {
   border: 3px solid #f9faf8;
 }
+
+.footerText {
+  color: #f9faf8;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
